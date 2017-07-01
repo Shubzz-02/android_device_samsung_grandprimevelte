@@ -1,0 +1,17 @@
+[
+	{
+		"local":		"file",
+		"source_path":	"/home/simon/Downloads/Grand Prime/kernel",
+		"target_path":	"/kernel/samsung/grandprimevelte"
+	},
+	{
+		"local":		"file",
+		"source_path":	"/home/simon/Downloads/Grand Prime/android_device_samsung_grandprimevelte",
+		"target_path":	"/device/samsung/grandprimevelte"
+	},
+	{
+		"local":		"file",
+		"source_path":	"/home/simon/Downloads/Grand Prime/android_vendor_samsung_grandprimevelte",
+		"target_path":	"/vendor/samsung/grandprimevelte"
+	}
+]
